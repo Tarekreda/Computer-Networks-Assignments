@@ -8,3 +8,10 @@
 
 ![comparison plot](/images/screen2.PNG)
 
+<br /> the second encoding is done using repetition encoding 
+
+<br />the following is the comparison plot between the performance of the encoded message vs uncoded message   
+<br />
+
+![comparison plot](/images/repetition-plot.PNG)
+
